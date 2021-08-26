@@ -1,0 +1,4 @@
+#Thu Aug 26 19:26:06 IST 2021
+base.0=/Users/Sandeep/Downloads/demo/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
